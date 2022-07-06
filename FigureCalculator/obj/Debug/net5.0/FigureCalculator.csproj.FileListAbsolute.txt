@@ -1,0 +1,16 @@
+D:\Проекты\C#\FigureCalculator\FigureCalculator\bin\Debug\net5.0\FigureCalculator.exe
+D:\Проекты\C#\FigureCalculator\FigureCalculator\bin\Debug\net5.0\FigureCalculator.deps.json
+D:\Проекты\C#\FigureCalculator\FigureCalculator\bin\Debug\net5.0\FigureCalculator.runtimeconfig.json
+D:\Проекты\C#\FigureCalculator\FigureCalculator\bin\Debug\net5.0\FigureCalculator.runtimeconfig.dev.json
+D:\Проекты\C#\FigureCalculator\FigureCalculator\bin\Debug\net5.0\FigureCalculator.dll
+D:\Проекты\C#\FigureCalculator\FigureCalculator\bin\Debug\net5.0\ref\FigureCalculator.dll
+D:\Проекты\C#\FigureCalculator\FigureCalculator\bin\Debug\net5.0\FigureCalculator.pdb
+D:\Проекты\C#\FigureCalculator\FigureCalculator\obj\Debug\net5.0\FigureCalculator.csproj.AssemblyReference.cache
+D:\Проекты\C#\FigureCalculator\FigureCalculator\obj\Debug\net5.0\FigureCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\C#\FigureCalculator\FigureCalculator\obj\Debug\net5.0\FigureCalculator.AssemblyInfoInputs.cache
+D:\Проекты\C#\FigureCalculator\FigureCalculator\obj\Debug\net5.0\FigureCalculator.AssemblyInfo.cs
+D:\Проекты\C#\FigureCalculator\FigureCalculator\obj\Debug\net5.0\FigureCalculator.csproj.CoreCompileInputs.cache
+D:\Проекты\C#\FigureCalculator\FigureCalculator\obj\Debug\net5.0\FigureCalculator.dll
+D:\Проекты\C#\FigureCalculator\FigureCalculator\obj\Debug\net5.0\ref\FigureCalculator.dll
+D:\Проекты\C#\FigureCalculator\FigureCalculator\obj\Debug\net5.0\FigureCalculator.pdb
+D:\Проекты\C#\FigureCalculator\FigureCalculator\obj\Debug\net5.0\FigureCalculator.genruntimeconfig.cache
